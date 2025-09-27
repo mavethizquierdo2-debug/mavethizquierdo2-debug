@@ -5,7 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1 align="center">👋 Hola, soy Maveth Izquierdo Hernández</h1>
+ <h1 align="center">
+  <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30" style="vertical-align: middle;">
+  Hola, soy Maveth Izquierdo Hernández
+</h1>
     <h3 align="center">🎓 Estudiante de Ingeniería en Cenyca Universidad</h3>
     <hr>
  <!-- SOBRE MÍ -->
@@ -89,11 +92,13 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.instagram.com/?next=%2Ffxcal%2Fdisclosure%2F%3Fnext%3D%252F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://github.com/mavethizquierdo2-debug" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+       <a href="//github.com/mavethizquierdo2-debug "_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a
   <a href="https://www.facebook.com/maveth.izquierdo/" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" 
-         alt="facebook" height="50" width="50" />
-  </a>
+         alt="facebook" height="50" width="50" /> </a>
+     
 
 
   
